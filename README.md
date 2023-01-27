@@ -1,1 +1,1 @@
-# Movie-Search-App
+In This project you can search an movie with their Movie title, this project is made using HTML,CSS and Javascript & Api and.In this project the movies are being search on Movie APi as Soon as you enter start typing title of movie. You can see the demo by clicking on below up-right-from-square symbol:
